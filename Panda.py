@@ -1,5 +1,6 @@
 import pandas as pd
 
+
 # Create a simple DataFrame
 data = {
     'Name': ['Rakesh', 'Paresh', 'Santosh', 'Neel'],
